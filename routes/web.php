@@ -3,7 +3,6 @@
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
 use App\Product;  // Lo importamos de Models
-// use Illuminate\Support\Facades\Auth;
 
 
 
